@@ -46,7 +46,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">Relief</span>
-                                <h3><a href="#">Emergency Relief for Displaced Ukrainian Families</a></h3>
+                                <h3><a href="{{route('cause1')}}">Emergency Relief for Displaced Ukrainian Families</a></h3>
                                 <p>The ongoing conflict in Ukraine has left countless families without homes and basic
                                     necessities. Our emergency relief efforts provide food, shelter, medical supplies, and
                                     support to those affected by the war. Your donations help us bring immediate aid to
@@ -62,7 +62,7 @@
 
                         <div class="causes-wrap">
                             <div class="img-wrap">
-                                <a href="#"><img src="https://i.pinimg.com/564x/45/d5/72/45d57274ffff88c31e583c94f926fe42.jpg" alt></a>
+                                <a href="{{route('cause2')}}"><img src="https://i.pinimg.com/564x/45/d5/72/45d57274ffff88c31e583c94f926fe42.jpg" alt></a>
                                 <div class="raised-progress">
                                     <div class="skillbar-wrap">
                                         <div class="clearfix">
@@ -77,7 +77,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">Wildlife</span>
-                                <h3><a href="#">Wildlife Rescue Amidst Conflict Zones in Ukraine</a></h3>
+                                <h3><a href="{{route('cause2')}}">Wildlife Rescue Amidst Conflict Zones in Ukraine</a></h3>
                                 <p>The war in Ukraine has not only affected humans but also endangered wildlife. We are
                                     working to rescue and rehabilitate animals trapped in conflict zones, providing them
                                     with safe havens and medical care. Your support ensures these innocent lives are
@@ -93,7 +93,7 @@
 
                         <div class="causes-wrap">
                             <div class="img-wrap">
-                                <a href="#"><img src="https://i.pinimg.com/564x/c4/a1/23/c4a12344bf2b646aaf5ea35e88c7f475.jpg" alt></a>
+                                <a href="https://www.ifaw.org/international/press-releases/new-nature-reserve-rescued-wildlife-ukraine"><img src="https://i.pinimg.com/564x/c4/a1/23/c4a12344bf2b646aaf5ea35e88c7f475.jpg" alt></a>
                                 <div class="raised-progress">
                                     <div class="skillbar-wrap">
                                         <div class="clearfix">
@@ -108,7 +108,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">Wildlife</span>
-                                <h3><a href="#">Protecting Endangered Species in Ukraine</a></h3>
+                                <h3><a href="https://www.ifaw.org/international/press-releases/new-nature-reserve-rescued-wildlife-ukraine">Protecting Endangered Species in Ukraine</a></h3>
                                 <p>Ukraine is home to a variety of endangered species that are now at greater risk due to
                                     the conflict. Our conservation efforts focus on protecting these species and their
                                     habitats from the adverse effects of war, including pollution and habitat destruction.
@@ -124,7 +124,7 @@
 
                         <div class="causes-wrap">
                             <div class="img-wrap">
-                                <a href="#"><img src="https://i.pinimg.com/564x/e1/6e/47/e16e474f1d4e7c1a7361a559d959df5b.jpg" alt></a>
+                                <a href="{{route('error')}}"><img src="https://i.pinimg.com/564x/e1/6e/47/e16e474f1d4e7c1a7361a559d959df5b.jpg" alt></a>
                                 <div class="raised-progress">
                                     <div class="skillbar-wrap">
                                         <div class="clearfix">
@@ -139,7 +139,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">People</span>
-                                <h3><a href="#">Anti-Poaching and Wildlife Protection Initiatives</a></h3>
+                                <h3><a href="https://www.aa.com.tr/en/africa/the-human-cost-of-tanzanias-anti-poaching-laws/3258404">Anti-Poaching and Wildlife Protection Initiatives</a></h3>
                                 <p>Poaching remains a critical threat to many species. Our anti-poaching initiatives involve
                                     patrolling protected areas, rescuing injured animals, and supporting local communities
                                     to prevent poaching. Your support helps us safeguard wildlife from illegal hunting and
@@ -155,7 +155,7 @@
 
                         <div class="causes-wrap">
                             <div class="img-wrap">
-                                <a href="#"><img src="https://i.pinimg.com/564x/02/0a/50/020a508fc3c808d59b1517c5bf891e4b.jpg" alt></a>
+                                <a href="https://www.aa.com.tr/en/africa/the-human-cost-of-tanzanias-anti-poaching-laws/3258404"><img src="https://i.pinimg.com/564x/02/0a/50/020a508fc3c808d59b1517c5bf891e4b.jpg" alt></a>
                                 <div class="raised-progress">
                                     <div class="skillbar-wrap">
                                         <div class="clearfix">
@@ -170,7 +170,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">Wildlife</span>
-                                <h3><a href="#">Rehabilitating War-Affected Ecosystems</a></h3>
+                                <h3><a href="{{route('error')}}">Rehabilitating War-Affected Ecosystems</a></h3>
                                 <p>The war has severely impacted Ukraine’s natural ecosystems. We are committed to restoring
                                     damaged landscapes, cleaning up polluted areas, and reintroducing native species to
                                     ensure the long-term health and biodiversity of Ukraine’s natural environment.</p>
@@ -185,7 +185,7 @@
 
                         <div class="causes-wrap">
                             <div class="img-wrap">
-                                <a href="#"><img src="https://i.pinimg.com/564x/59/aa/e6/59aae6606319163b372f60be0bf2ed76.jpg" alt></a>
+                                <a href="{{route('error')}}"><img src="https://i.pinimg.com/564x/59/aa/e6/59aae6606319163b372f60be0bf2ed76.jpg" alt></a>
                                 <div class="raised-progress">
                                     <div class="skillbar-wrap">
                                         <div class="clearfix">
@@ -200,7 +200,7 @@
                             </div>
                             <div class="content-wrap">
                                 <span class="tag">Health</span>
-                                <h3><a href="#">Help From Natural Disaster</a></h3>
+                                <h3><a href="{{route('error')}}">Help From Natural Disaster</a></h3>
                                 <p>Inventore veritatis et quasi archit see ecto beatae vitae dicta sunt explaemo enim
                                     voluptatem quia</p>
                                 <div class="btn-wrap">

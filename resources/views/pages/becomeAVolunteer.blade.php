@@ -66,26 +66,27 @@
                                     <small>Become A Volunteer</small>
                                 </h1>
                                 <div class="form">
-                                    <form>
+                                    <form action="{{route('volunteer')}}" method="POST" enctype="multipart/form-data">
+                                        @csrf
                                         <div class="form-group">
                                             <label for="fullname"><strong>Full Name</strong></label>
-                                            <input type="text" class="form-control form-light" id="fullname">
+                                            <input type="text" name="name" class="form-control form-light" id="fullname">
                                         </div>
                                         <div class="form-group">
                                             <label for="email"><strong>Email Address</strong></label>
-                                            <input type="email" class="form-control form-light" id="email">
+                                            <input type="email" name="email" class="form-control form-light" id="email">
                                         </div>
                                         <div class="form-group">
                                             <label for="phone"><strong>Phone Number</strong></label>
-                                            <input type="tel" class="form-control form-light" id="phone">
+                                            <input type="tel" name="phone" class="form-control form-light" id="phone">
                                         </div>
                                         <div class="form-group">
                                             <label for="refrence"><strong>Refrence Contact</strong></label>
-                                            <input type="tel" class="form-control form-light" id="refrence">
+                                            <input type="tel" name="ref_contact" class="form-control form-light" id="refrence">
                                         </div>
                                         <div class="form-group">
                                             <label for="msg"><strong>Your Reason to join</strong></label>
-                                            <textarea class="form-control form-light" rows="5" id="msg"></textarea>
+                                            <textarea name="reason" class="form-control form-light" rows="5" id="msg"></textarea>
                                         </div>
                                         <button type="submit" class="btn btn-outline-light mt-3">Send Request</button>
                                     </form>

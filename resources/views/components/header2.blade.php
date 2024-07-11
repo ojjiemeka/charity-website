@@ -31,7 +31,8 @@
     <div class="container text-nowrap">
     <div class="d-flex align-items-center w-100 col p-0 logo-brand">
     <a class="navbar-brand rounded-bottom light-bg" href="/">
-    <img src="assets/images/logo_dark.svg" alt>
+        <img src="https://www.earthisland.org/projects/logos/EWP_logo_Full_Color.png" style="width: 75px;" alt>
+
     </a>
     </div>
     
@@ -50,7 +51,7 @@
     
         <div class="offcanvas-header">
             <a href="/" class="logo-small">
-            <img src="assets/images/logo_dark.svg" alt>
+                <img src="https://www.earthisland.org/projects/logos/EWP_logo_Full_Color.png" style="width: 75px;" alt>
             </a>
         </div>
             

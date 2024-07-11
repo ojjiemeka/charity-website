@@ -13,6 +13,7 @@
                             <div id="sucessmessage"></div>
                             <div class="mb-5">
                                 <a href="{{route('donations')}}" class="btn btn-secondary" type="button">Back to home</a>
+                                <a href="{{route('paymentSuccessMail')}}" class="btn btn-secondary" type="button">Back to home</a>
                             </div>
                             <div class="heading mb-3">
                                 <h2 class="">Thank You for Your Generosity!</h2>
@@ -97,7 +98,7 @@
                                             <div class="tab-pane fade" id="pills-paypal" role="tabpanel" aria-labelledby="pills-paypal-tab">
                                                     <h2 class="mb-3">Prefer to Donate Through CashApp, Venmo, or Wire Transfer?</h2>
                                                     <p>
-                                                        We appreciate your willingness to support our cause! For donations via CashApp, Venmo, Wire Transfer, or other alternative payment methods, please send an email to <a class="text-danger" href="mailto:donations@raisehope.org">donations@raisehope.org</a> or contact our support team to make arrangements.
+                                                        We appreciate your willingness to support our cause! For donations via CashApp, Venmo, Wire Transfer, or other alternative payment methods, please send an email to <a class="text-danger" href="mailto:info@eurasiawildlifealliance.online">info@eurasiawildlifealliance.online</a> or contact our support team to make arrangements.
                                                     </p>
                                             </div>
                                         </div>

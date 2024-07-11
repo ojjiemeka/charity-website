@@ -414,7 +414,7 @@
                         </h1>
                     </div>
                     <div class="col-sm-12 text-md-end">
-                        <a href="{{route('donations')}}" class="btn btn-default">Donate Now</a>
+                        <a href="" class="btn btn-default">Donate Now</a>
                     </div>
                 </div>
             </div>
